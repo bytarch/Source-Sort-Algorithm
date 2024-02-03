@@ -1,6 +1,6 @@
 # Source Sorting Algorithm
 
-This C++ application exemplifies the implementation of the Source Sorting algorithm, a sophisticated sorting algorithm proficient in efficiently sorting extensive datasets encompassing both integer and floating-point arrays.
+This C++ program showcases the implementation of the Source Sorting algorithm, a highly efficient sorting algorithm designed to operate seamlessly on arrays containing both integer and floating-point data types. It is adept at managing large datasets, ensuring optimal performance and accuracy in the sorting process.
 
 ## Table of Contents
 
